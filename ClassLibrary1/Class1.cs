@@ -17,7 +17,7 @@ namespace ClassLibrary1
 
             public static double CelsiusParaFahrenheit(double temperatura)
             {
-                return 0;
+                return 1;
             }
         }
     }
